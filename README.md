@@ -4,6 +4,10 @@ Actually working on my toolkit [devdata.tools](http://devdata.tools) in free tim
 
 ##### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/create-json)
 
+### My last article on Medium:
+
+[How I create my first action and deployed to Github Actions Marketplace](https://medium.com/@jsdaniell/how-i-create-my-first-action-and-deployed-to-github-actions-marketplace-8ca519be1ef7)
+
 ### Languages and Tools :computer:
  
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/jsdaniell)](https://github.com/jsdaniell) 
@@ -23,3 +27,4 @@ Actually working on my toolkit [devdata.tools](http://devdata.tools) in free tim
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsdaniell/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jsdaniell/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:jose.daniell@outlook.com)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@jsdaniell)
