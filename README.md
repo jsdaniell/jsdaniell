@@ -6,7 +6,7 @@ Actually working on my toolkit [devdata.tools](http://devdata.tools) in free tim
 
 ### My last article on Medium:
 
-[How I create my first action and deployed to Github Actions Marketplace](https://medium.com/@jsdaniell/how-i-create-my-first-action-and-deployed-to-github-actions-marketplace-8ca519be1ef7)
+[How I create my first action and deployed to Github Actions Marketplace](https://medium.com/swlh/how-i-create-my-first-action-and-deployed-to-github-actions-marketplace-8ca519be1ef7)
 
 ### Languages and Tools :computer:
  
