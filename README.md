@@ -4,7 +4,9 @@ Actually working on my toolkit [devdata.tools](http://devdata.tools) in free tim
 
 ##### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/create-json)
 
-### My last article on Medium:
+### My last articles on Medium:
+
+[How I Create a Whatsapp REST API and CLI to Automate My Messages With Golang (Part 1)](https://medium.com/geekculture/how-i-create-a-whatsapp-rest-api-and-cli-to-automate-my-messages-with-golang-part-1-3dd5b805462)
 
 [How I create my first action and deployed to Github Actions Marketplace](https://medium.com/swlh/how-i-create-my-first-action-and-deployed-to-github-actions-marketplace-8ca519be1ef7)
 
