@@ -31,3 +31,7 @@ Actually working on my toolkit [devdata.tools](http://devdata.tools) in free tim
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jsdaniell/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:jose.daniell@outlook.com)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@jsdaniell)
+
+![GitHub Snake Light](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/jsdaniell/jsdaniell/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
