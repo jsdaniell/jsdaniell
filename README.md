@@ -1,6 +1,6 @@
 ### I'm jsdaniell 👋
 
-Actually working on my toolkit [devdata.tools](http://devdata.tools) in free time!
+Actually working on my toolkit [devdata.tools](http://devdata.tools](https://devdatatools.web.app/#/) in free time!
 
 ##### I recently deployed an new [action on Github Marketplace](https://github.com/marketplace/actions/create-json)
 
